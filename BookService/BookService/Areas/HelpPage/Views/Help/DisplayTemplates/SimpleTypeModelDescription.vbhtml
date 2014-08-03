@@ -1,0 +1,3 @@
+@Imports BookService.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
